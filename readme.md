@@ -27,4 +27,4 @@ python bonus.py
 
 ***Link :** https://bestmining.top/?ref=tuyuldigitalx  
 
-****Credit to :** @AkasakID
+****Credit to :** @AkasakaID
